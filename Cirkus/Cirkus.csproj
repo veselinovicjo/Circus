@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1A2FE453-10B4-4C88-B230-922BDB918DAF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Cirkus</RootNamespace>
+    <AssemblyName>Cirkus</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Antlr3.Runtime.3.5.1\lib\net40-client\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="FluentNHibernate, Version=2.1.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentNHibernate.2.1.2\lib\net461\FluentNHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=4.0.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Iesi.Collections.4.0.4\lib\net461\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate, Version=5.2.0.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHibernate.5.2.5\lib\net461\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.18.3, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.18.6.0\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="Remotion.Linq, Version=2.2.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Remotion.Linq.2.2.0\lib\net45\Remotion.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="Remotion.Linq.EagerFetching, Version=2.2.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Remotion.Linq.EagerFetching.2.2.0\lib\net45\Remotion.Linq.EagerFetching.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataLayer.cs" />
+    <Compile Include="DTOManager.cs" />
+    <Compile Include="DTOs.cs" />
+    <Compile Include="Entiteti\Akrobate.cs" />
+    <Compile Include="Entiteti\Angažuje.cs" />
+    <Compile Include="Entiteti\Artisti.cs" />
+    <Compile Include="Entiteti\Cirkuska_predstava.cs" />
+    <Compile Include="Entiteti\Cirkuska_tačka.cs" />
+    <Compile Include="Entiteti\Dreseri.cs" />
+    <Compile Include="Entiteti\Dresira.cs" />
+    <Compile Include="Entiteti\Grad.cs" />
+    <Compile Include="Entiteti\Humanitarna.cs" />
+    <Compile Include="Entiteti\Izvodi_se.cs" />
+    <Compile Include="Entiteti\Izvodi_se_id.cs" />
+    <Compile Include="Entiteti\Klovnovi.cs" />
+    <Compile Include="Entiteti\Pomoćno_osoblje.cs" />
+    <Compile Include="Entiteti\Poseduje.cs" />
+    <Compile Include="Entiteti\Po_narudžbini.cs" />
+    <Compile Include="Entiteti\Sastoji_se.cs" />
+    <Compile Include="Entiteti\Specijalna.cs" />
+    <Compile Include="Entiteti\Veština.cs" />
+    <Compile Include="Entiteti\Zadužuje.cs" />
+    <Compile Include="Entiteti\Zadužuje_id.cs" />
+    <Compile Include="Entiteti\Životinje.cs" />
+    <Compile Include="Entiteti\Žongleri.cs" />
+    <Compile Include="Forme\Dodaj_grad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Dodaj_grad.Designer.cs">
+      <DependentUpon>Dodaj_grad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Dodaj_osoblje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Dodaj_osoblje.Designer.cs">
+      <DependentUpon>Dodaj_osoblje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Dodaj_tačku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Dodaj_tačku.Designer.cs">
+      <DependentUpon>Dodaj_tačku.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Dodaj_predstavu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Dodaj_predstavu.Designer.cs">
+      <DependentUpon>Dodaj_predstavu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Dodaj_životinju.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Dodaj_životinju.designer.cs">
+      <DependentUpon>Dodaj_životinju.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Grad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Grad.Designer.cs">
+      <DependentUpon>Grad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Izmeni_grad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Izmeni_grad.Designer.cs">
+      <DependentUpon>Izmeni_grad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Izmeni_osoblje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Izmeni_osoblje.Designer.cs">
+      <DependentUpon>Izmeni_osoblje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Izmeni_predstavu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Izmeni_predstavu.Designer.cs">
+      <DependentUpon>Izmeni_predstavu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Izmeni_tačku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Izmeni_tačku.Designer.cs">
+      <DependentUpon>Izmeni_tačku.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Izmeni_životinju.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Izmeni_životinju.designer.cs">
+      <DependentUpon>Izmeni_životinju.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Osoblje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Osoblje.Designer.cs">
+      <DependentUpon>Osoblje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Tačka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Tačka.Designer.cs">
+      <DependentUpon>Tačka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Životinje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Životinje.designer.cs">
+      <DependentUpon>Životinje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mapiranje\Akrobate_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Angažuje_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Artisti_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Cirkuska_predstava_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Cirkuska_tačka_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Dreseri_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Dresira_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Grad_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Humanitarna_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Izvodi_se_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Klovnovi_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Pomoćno_osoblje_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Poseduje_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Po_narudžbini_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Sastoji_se_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Specijalna_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Veština_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Zadužuje_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Životinje_Mapiranje.cs" />
+    <Compile Include="Mapiranje\Žongleri_Mapiranje.cs" />
+    <Compile Include="Forme\Predstava.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Predstava.Designer.cs">
+      <DependentUpon>Predstava.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forme\Dodaj_grad.resx">
+      <DependentUpon>Dodaj_grad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Dodaj_osoblje.resx">
+      <DependentUpon>Dodaj_osoblje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Dodaj_tačku.resx">
+      <DependentUpon>Dodaj_tačku.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Dodaj_predstavu.resx">
+      <DependentUpon>Dodaj_predstavu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Dodaj_životinju.resx">
+      <DependentUpon>Dodaj_životinju.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Grad.resx">
+      <DependentUpon>Grad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Izmeni_grad.resx">
+      <DependentUpon>Izmeni_grad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Izmeni_osoblje.resx">
+      <DependentUpon>Izmeni_osoblje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Izmeni_predstavu.resx">
+      <DependentUpon>Izmeni_predstavu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Izmeni_tačku.resx">
+      <DependentUpon>Izmeni_tačku.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Izmeni_životinju.resx">
+      <DependentUpon>Izmeni_životinju.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Osoblje.resx">
+      <DependentUpon>Osoblje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Predstava.resx">
+      <DependentUpon>Predstava.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Tačka.resx">
+      <DependentUpon>Tačka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Životinje.resx">
+      <DependentUpon>Životinje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

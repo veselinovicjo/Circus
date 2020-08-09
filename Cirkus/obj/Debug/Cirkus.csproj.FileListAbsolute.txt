@@ -1,0 +1,269 @@
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\bin\Debug\Cirkus.exe.config
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\bin\Debug\Cirkus.exe
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\bin\Debug\Cirkus.pdb
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\bin\Debug\Iesi.Collections.dll
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\bin\Debug\NHibernate.dll
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\bin\Debug\Remotion.Linq.dll
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\bin\Debug\Iesi.Collections.xml
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\bin\Debug\NHibernate.xml
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\bin\Debug\Remotion.Linq.xml
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\obj\Debug\Cirkus.csprojAssemblyReference.cache
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\obj\Debug\Cirkus.Properties.Resources.resources
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\obj\Debug\Cirkus.csproj.GenerateResource.cache
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\obj\Debug\Cirkus.csproj.CoreCompileInputs.cache
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\obj\Debug\Cirkus.csproj.CopyComplete
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\obj\Debug\Cirkus.exe
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\obj\Debug\Cirkus.pdb
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\bin\Debug\FluentNHibernate.dll
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\bin\Debug\FluentNHibernate.xml
+C:\Users\Nevena\source\repos\Cirkus\Cirkus\obj\Debug\Cirkus.Form1.resources
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\bin\Debug\Cirkus.exe.config
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\bin\Debug\Cirkus.exe
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\bin\Debug\Cirkus.pdb
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\bin\Debug\Antlr3.Runtime.dll
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\bin\Debug\FluentNHibernate.dll
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\bin\Debug\Iesi.Collections.dll
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\bin\Debug\NHibernate.dll
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\bin\Debug\Remotion.Linq.dll
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\bin\Debug\Antlr3.Runtime.xml
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\bin\Debug\FluentNHibernate.xml
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\bin\Debug\Iesi.Collections.xml
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\bin\Debug\NHibernate.xml
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\bin\Debug\Remotion.Linq.xml
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\obj\Debug\Cirkus.csprojAssemblyReference.cache
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\obj\Debug\Cirkus.Form1.resources
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\obj\Debug\Cirkus.Properties.Resources.resources
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\obj\Debug\Cirkus.csproj.GenerateResource.cache
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\obj\Debug\Cirkus.csproj.CoreCompileInputs.cache
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\obj\Debug\Cirkus.csproj.CopyComplete
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\obj\Debug\Cirkus.exe
+D:\Knjige\VI semestar\Sistemi baza podataka\CirkusVS\Cirkus\Cirkus\obj\Debug\Cirkus.pdb
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\bin\Debug\Cirkus.exe.config
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\bin\Debug\Cirkus.exe
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\bin\Debug\Cirkus.pdb
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\bin\Debug\FluentNHibernate.dll
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\bin\Debug\Iesi.Collections.dll
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\bin\Debug\NHibernate.dll
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\bin\Debug\Remotion.Linq.dll
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\bin\Debug\FluentNHibernate.xml
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\bin\Debug\Iesi.Collections.xml
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\bin\Debug\NHibernate.xml
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\bin\Debug\Remotion.Linq.xml
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\obj\Debug\Cirkus.csprojResolveAssemblyReference.cache
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\obj\Debug\Cirkus.Form1.resources
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\obj\Debug\Cirkus.Properties.Resources.resources
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\obj\Debug\Cirkus.csproj.GenerateResource.Cache
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\obj\Debug\Cirkus.exe
+C:\Users\Maki_sta\Downloads\Cirkus (2)\Cirkus\Cirkus\obj\Debug\Cirkus.pdb
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\bin\Debug\Cirkus.exe.config
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\bin\Debug\Cirkus.exe
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\bin\Debug\Cirkus.pdb
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\bin\Debug\Antlr3.Runtime.dll
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\bin\Debug\FluentNHibernate.dll
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\bin\Debug\Iesi.Collections.dll
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\bin\Debug\NHibernate.dll
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\bin\Debug\Remotion.Linq.dll
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\bin\Debug\Antlr3.Runtime.xml
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\bin\Debug\FluentNHibernate.xml
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\bin\Debug\Iesi.Collections.xml
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\bin\Debug\NHibernate.xml
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\bin\Debug\Remotion.Linq.xml
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\obj\Debug\Cirkus.csprojAssemblyReference.cache
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\obj\Debug\Cirkus.Form1.resources
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\obj\Debug\Cirkus.Properties.Resources.resources
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\obj\Debug\Cirkus.csproj.GenerateResource.cache
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\obj\Debug\Cirkus.csproj.CoreCompileInputs.cache
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\obj\Debug\Cirkus.csproj.CopyComplete
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\obj\Debug\Cirkus.exe
+D:\Knjige\VI semestar\Sistemi baza podataka\Cirkus V1\Cirkus\Cirkus\obj\Debug\Cirkus.pdb
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.csprojResolveAssemblyReference.cache
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Form1.resources
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Properties.Resources.resources
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.csproj.GenerateResource.Cache
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.exe
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.pdb
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\bin\Debug\Cirkus.exe.config
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\bin\Debug\Cirkus.exe
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\bin\Debug\Cirkus.pdb
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\bin\Debug\FluentNHibernate.dll
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\bin\Debug\Iesi.Collections.dll
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\bin\Debug\NHibernate.dll
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\bin\Debug\Remotion.Linq.dll
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\bin\Debug\FluentNHibernate.xml
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\bin\Debug\Iesi.Collections.xml
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\bin\Debug\NHibernate.xml
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\bin\Debug\Remotion.Linq.xml
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Predstava.resources
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_predstavu.resources
+C:\Users\Maki_sta\Desktop\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_predstavu.resources
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_grad.resources
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_osoblje.resources
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_tačku.resources
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_predstavu.resources
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Form1.resources
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Grad.resources
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_grad.resources
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_osoblje.resources
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_predstavu.resources
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_tačku.resources
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Osoblje.resources
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Predstava.resources
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Tačka.resources
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Properties.Resources.resources
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.csproj.GenerateResource.cache
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.csproj.CoreCompileInputs.cache
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\bin\Debug\Cirkus.exe.config
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\bin\Debug\Cirkus.exe
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\bin\Debug\Cirkus.pdb
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\bin\Debug\FluentNHibernate.dll
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\bin\Debug\Iesi.Collections.dll
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\bin\Debug\NHibernate.dll
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\bin\Debug\Remotion.Linq.dll
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\bin\Debug\FluentNHibernate.xml
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\bin\Debug\Iesi.Collections.xml
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\bin\Debug\NHibernate.xml
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\bin\Debug\Remotion.Linq.xml
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.csprojAssemblyReference.cache
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.csproj.CopyComplete
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.exe
+C:\Users\Nevena\Downloads\wetransfer-055815\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.pdb
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\bin\Debug\Cirkus.exe.config
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\bin\Debug\Cirkus.exe
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\bin\Debug\Cirkus.pdb
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\bin\Debug\Antlr3.Runtime.dll
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\bin\Debug\FluentNHibernate.dll
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\bin\Debug\Iesi.Collections.dll
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\bin\Debug\NHibernate.dll
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\bin\Debug\Remotion.Linq.dll
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\bin\Debug\Antlr3.Runtime.xml
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\bin\Debug\FluentNHibernate.xml
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\bin\Debug\Iesi.Collections.xml
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\bin\Debug\NHibernate.xml
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\bin\Debug\Remotion.Linq.xml
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.csprojAssemblyReference.cache
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_grad.resources
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_osoblje.resources
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_tačku.resources
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_predstavu.resources
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Form1.resources
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Grad.resources
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_grad.resources
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_osoblje.resources
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_predstavu.resources
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_tačku.resources
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Osoblje.resources
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Predstava.resources
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Forme.Tačka.resources
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.Properties.Resources.resources
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.csproj.GenerateResource.cache
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.csproj.CoreCompileInputs.cache
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.csproj.CopyComplete
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.exe
+C:\Users\dejana\Desktop\Cirkus faza 2\Cirkus faza 2\Cirkus\obj\Debug\Cirkus.pdb
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\bin\Debug\Cirkus.exe.config
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\bin\Debug\Cirkus.exe
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\bin\Debug\Cirkus.pdb
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\bin\Debug\FluentNHibernate.dll
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\bin\Debug\Iesi.Collections.dll
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\bin\Debug\NHibernate.dll
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\bin\Debug\Remotion.Linq.dll
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\bin\Debug\FluentNHibernate.xml
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\bin\Debug\Iesi.Collections.xml
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\bin\Debug\NHibernate.xml
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\bin\Debug\Remotion.Linq.xml
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.csprojAssemblyReference.cache
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_grad.resources
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_osoblje.resources
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_tačku.resources
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_predstavu.resources
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.Forme.Grad.resources
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_grad.resources
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_osoblje.resources
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_predstavu.resources
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_tačku.resources
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.Forme.Osoblje.resources
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.Predstava.resources
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.Forme.Tačka.resources
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.Properties.Resources.resources
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.csproj.GenerateResource.cache
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.csproj.CoreCompileInputs.cache
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.csproj.CopyComplete
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.exe
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.pdb
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.Forme.Životinje.resources
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_životinju.resources
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_životinju.resources
+C:\Users\Nevena\Documents\SBP - Sistemi baza podataka\Cirkus faza 3\Cirkus\obj\Debug\Cirkus.Cirkus.resources
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\bin\Debug\Cirkus.dll.config
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\bin\Debug\Cirkus.dll
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\bin\Debug\Cirkus.pdb
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\bin\Debug\FluentNHibernate.dll
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\bin\Debug\Iesi.Collections.dll
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\bin\Debug\NHibernate.dll
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\bin\Debug\Remotion.Linq.dll
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\bin\Debug\FluentNHibernate.xml
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\bin\Debug\Iesi.Collections.xml
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\bin\Debug\NHibernate.xml
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\bin\Debug\Remotion.Linq.xml
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.csprojAssemblyReference.cache
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_grad.resources
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_osoblje.resources
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_tačku.resources
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_predstavu.resources
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.Forme.Dodaj_životinju.resources
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.Cirkus.resources
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.Forme.Grad.resources
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_grad.resources
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_osoblje.resources
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_predstavu.resources
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_tačku.resources
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.Forme.Izmeni_životinju.resources
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.Forme.Osoblje.resources
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.Predstava.resources
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.Forme.Tačka.resources
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.Forme.Životinje.resources
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.Properties.Resources.resources
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.csproj.GenerateResource.cache
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.csproj.CoreCompileInputs.cache
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.csproj.CopyComplete
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.dll
+C:\Users\Maki_sta\Desktop\Cirkus Faza 4\Cirkus\obj\Debug\Cirkus.pdb
